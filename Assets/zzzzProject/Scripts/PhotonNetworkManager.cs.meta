@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 12f939b3885ba4f268d6e0b7a7dff989
+timeCreated: 1512871877
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lobbyCamera: {fileID: 100000, guid: 7461a7b0cf97947fd9b9e4502fd2d07b, type: 2}
+  - light: {instanceID: 0}
+  - player: {instanceID: 0}
+  - new_room: {instanceID: 0}
+  - max_count: {instanceID: 0}
+  - exist_room: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
